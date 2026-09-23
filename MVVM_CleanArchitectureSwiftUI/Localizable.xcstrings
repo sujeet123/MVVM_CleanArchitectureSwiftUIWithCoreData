@@ -1,0 +1,54 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Address" : {
+
+    },
+    "Catchphrase" : {
+
+    },
+    "City" : {
+
+    },
+    "Company" : {
+
+    },
+    "Email" : {
+
+    },
+    "Loading profile…" : {
+
+    },
+    "Name" : {
+
+    },
+    "Personal" : {
+
+    },
+    "Phone" : {
+
+    },
+    "Profile" : {
+
+    },
+    "Retry" : {
+
+    },
+    "Showing offline data — pull to refresh" : {
+
+    },
+    "Street" : {
+
+    },
+    "Username" : {
+
+    },
+    "Website" : {
+
+    },
+    "Zip" : {
+
+    }
+  },
+  "version" : "1.1"
+}

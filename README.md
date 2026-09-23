@@ -1,4 +1,3 @@
-
 # UserProfileApp
 
 A SwiftUI app demonstrating **MVVM + Clean Architecture + Swift Concurrency**,
@@ -84,4 +83,3 @@ Presentation  --->  Domain  <---  Data
   (e.g. `Domain/Entities/Post.swift`, `Data/.../PostRepository.swift`, etc.)
 - **Mock networking for previews/tests**: implement `APIClientProtocol` or
   `GetUserProfileUseCaseProtocol` with canned data (see the test file).
->>>>>>> 14d7556 (Implemented Clean architecture along with offline sys with core data)
